@@ -4,7 +4,7 @@ A multiplayer of pacman that's more like tag, everyone except pacman plays as gh
 
 ![image](https://github.com/user-attachments/assets/abfd5655-595c-441f-b6ad-fbd6240fff64)
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/976a1fe8-a932-48f4-9a0b-b761b32725c8" align="top"/><img width="600" alt="Screenshot 2024-12-24 at 1 03 51 AM" src="https://github.com/user-attachments/assets/b423e635-cf58-4f0d-a8cc-1aee80803a53" align="top"/>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/976a1fe8-a932-48f4-9a0b-b761b32725c8" align="top"/><img width="400" alt="Screenshot 2024-12-24 at 1 03 51 AM" src="https://github.com/user-attachments/assets/b423e635-cf58-4f0d-a8cc-1aee80803a53" align="top"/>
 
 ## TODO
 
